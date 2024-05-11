@@ -1,0 +1,11 @@
+Email,First Name,Last Name,Company,Was Reached Out To
+alice@example.com,Alice,Smith,Company A,True
+bob@example.com,Bob,Johnson,Company B,True
+carol@example.com,Carol,Williams,Company C,True
+dave@example.com,Dave,Jones,Company D,False
+eve@example.com,Eve,Brown,Company E,False
+frank@example.com,Frank,Davis,Company F,True
+grace@example.com,Grace,Miller,Company G,False
+hank@example.com,Hank,Wilson,Company H,True
+irene@example.com,Irene,Moore,Company I,True
+john@example.com,John,Taylor,Company J,True
